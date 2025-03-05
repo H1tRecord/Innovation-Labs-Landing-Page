@@ -1,0 +1,12 @@
+- do the logic for the newletter if it is even necesarry
+- content for the pages
+- login signup mapping
+- Contextify as cms
+- remove background hover for navbar and improve the design as icons looks like trash
+- figure out what the use for the search probably will remove it 
+- replace the login to "Become a Member" then subheader italic under it as "Already a Member?"
+- probably make a seperate webapp for the dashboard
+- figure out how to use facebook api
+- animations?
+- Contact
+- 

@@ -1,0 +1,34 @@
+{
+  "features": [
+    {
+      "title": "Facilities & Resources",
+      "image": "https://placehold.co/600x400/252f3f/ffffff?text=",
+      "items": [
+        "Extensive components library",
+        "Fully equipped hands-on labs",
+        "State-of-the-art equipment",
+        "Modern workspaces"
+      ]
+    },
+    {
+      "title": "Programs & Workshops",
+      "image": "https://placehold.co/600x400/252f3f/ffffff?text=",
+      "items": [
+        "Free training sessions",
+        "Coding bootcamps",
+        "AI and ML workshops",
+        "Electronics projects"
+      ]
+    },
+    {
+      "title": "Membership Benefits",
+      "image": "https://placehold.co/600x400/252f3f/ffffff?text=",
+      "items": [
+        "Networking opportunities",
+        "Skill development programs",
+        "Project collaboration",
+        "Exclusive events access"
+      ]
+    }
+  ]
+}

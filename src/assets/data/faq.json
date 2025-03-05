@@ -1,0 +1,43 @@
+{
+    "sections": [
+      {
+        "category": "General Questions",
+        "items": [
+          {
+            "question": "What is Innovation Lab?",
+            "answer": "Innovation Lab is a state-of-the-art facility designed to foster creativity, innovation, and technological advancement. We provide resources, equipment, and expertise to help turn ideas into reality."
+          },
+          {
+            "question": "Who can use the Innovation Lab?",
+            "answer": "Our facilities are open to students, faculty members, researchers, and approved external partners. All users must complete a basic safety orientation before accessing the lab."
+          }
+        ]
+      },
+      {
+        "category": "Services & Facilities",
+        "items": [
+          {
+            "question": "What equipment is available in the lab?",
+            "answer": "We offer 3D printers, laser cutters, CNC machines, electronics workstations, VR/AR equipment, and various prototyping tools. A complete list is available in our resources section."
+          },
+          {
+            "question": "How do I book lab time?",
+            "answer": "Lab time can be booked through our online portal. Users must book at least 24 hours in advance and specify which equipment they need."
+          }
+        ]
+      },
+      {
+        "category": "Policies",
+        "items": [
+          {
+            "question": "What are the safety protocols?",
+            "answer": "All users must attend safety training, wear appropriate PPE, and follow lab guidelines. Detailed safety protocols are provided during orientation."
+          },
+          {
+            "question": "Are there any usage fees?",
+            "answer": "Basic lab access is free for enrolled students. Certain equipment and materials may incur additional costs. See our pricing page for details."
+          }
+        ]
+      }
+    ]
+  }

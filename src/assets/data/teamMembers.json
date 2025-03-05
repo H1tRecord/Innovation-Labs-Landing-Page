@@ -1,0 +1,40 @@
+{
+  "members": [
+    {
+      "name": "Dr. Sarah Johnson",
+      "role": "Lab Director",
+      "image": "https://placehold.co/400x400/252f3f/ffffff?text=SJ",
+      "social": {
+        "linkedin": "https://linkedin.com",
+        "twitter": "https://twitter.com"
+      }
+    },
+    {
+      "name": "Prof. Michael Chen",
+      "role": "Research Lead",
+      "image": "https://placehold.co/400x400/252f3f/ffffff?text=MC",
+      "social": {
+        "linkedin": "https://linkedin.com",
+        "twitter": "https://twitter.com"
+      }
+    },
+    {
+      "name": "Emily Rodriguez",
+      "role": "Innovation Specialist",
+      "image": "https://placehold.co/400x400/252f3f/ffffff?text=ER",
+      "social": {
+        "linkedin": "https://linkedin.com",
+        "twitter": "https://twitter.com"
+      }
+    },
+    {
+      "name": "David Kim",
+      "role": "Technical Director",
+      "image": "https://placehold.co/400x400/252f3f/ffffff?text=DK",
+      "social": {
+        "linkedin": "https://linkedin.com",
+        "twitter": "https://twitter.com"
+      }
+    }
+  ]
+}
