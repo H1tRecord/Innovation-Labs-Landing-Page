@@ -42,7 +42,7 @@ You can also run the project using Docker. Use the following Docker image: [h1tr
 
 2. Run the Docker container:
    ```sh
-   docker run -p 3000:3000 h1trecord/il-lp
+   docker run -p 5173:5173  h1trecord/il-lp
    ```
 
 ## Available Plugins
