@@ -1,0 +1,37 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "AI Workshop Series",
+      "description": "Join us for a comprehensive workshop series on Artificial Intelligence and Machine Learning fundamentals.",
+      "date": "2024-02-15",
+      "time": "14:00-17:00",
+      "location": "Innovation Lab Main Hall",
+      "image": "https://placehold.co/600x400/252f3f/ffffff?text=AI+Workshop",
+      "category": "Workshop",
+      "status": "upcoming"
+    },
+    {
+      "id": 2,
+      "title": "Robotics Hackathon",
+      "description": "48-hour hackathon focused on building innovative robotics solutions for real-world problems.",
+      "date": "2024-03-01",
+      "time": "09:00-17:00",
+      "location": "Innovation Lab Workshop Area",
+      "image": "https://placehold.co/600x400/252f3f/ffffff?text=Robotics+Hackathon",
+      "category": "Hackathon",
+      "status": "upcoming"
+    },
+    {
+      "id": 3,
+      "title": "Tech Startup Meetup",
+      "description": "Network with local tech startups and learn about the latest innovations in the industry.",
+      "date": "2024-02-28",
+      "time": "18:00-21:00",
+      "location": "Innovation Lab Conference Room",
+      "image": "https://placehold.co/600x400/252f3f/ffffff?text=Startup+Meetup",
+      "category": "Networking",
+      "status": "upcoming"
+    }
+  ]
+}
