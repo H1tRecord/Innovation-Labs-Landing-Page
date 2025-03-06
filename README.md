@@ -30,21 +30,6 @@ To get started with the project, follow these steps:
    npm run dev
    ```
 
-## Docker Usage
-
-You can also run the project using Docker. Use the following Docker image: [h1trecord/il-lp](https://hub.docker.com/repository/docker/h1trecord/il-lp/general).
-
-1. Pull the Docker image:
-
-   ```sh
-   docker pull h1trecord/il-lp
-   ```
-
-2. Run the Docker container:
-   ```sh
-   docker run -p 5173:5173  h1trecord/il-lp
-   ```
-
 ## Available Plugins
 
 Currently, two official plugins are available:
