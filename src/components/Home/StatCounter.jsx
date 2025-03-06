@@ -1,20 +1,20 @@
 import { Box, Container, Grid, Typography } from '@mui/material';
 import CountUp from 'react-countup';
-
-const stats = [
-    { number: 1000, label: 'Students Trained', suffix: '+' },
-    { number: 50, label: 'Active Projects', suffix: '+' },
-    { number: 25, label: 'Industry Partners', suffix: '' },
-    { number: 100, label: 'Success Stories', suffix: '%' }
-];
+import statsData from '../../assets/data/stats.json';
 
 const StatCounter = () => {
     return (
         <Box sx={{ backgroundColor: 'primary.main', py: 8, color: 'white' }}>
             <Container maxWidth="lg">
                 <Grid container spacing={4} justifyContent="center">
-                    {stats.map((stat, index) => (
-                        <Grid item xs={6} md={3} key={index} sx={{ textAlign: 'center' }}>
+                    {statsData.stats.map((stat, index) => (
+                        <Grid 
+                            item 
+                            xs={6} 
+                            md={3} 
+                            key={index} 
+                            sx={{ textAlign: 'center' }}
+                        >
                             <Typography variant="h2" sx={{ fontWeight: 'bold', mb: 1 }}>
                                 <CountUp end={stat.number} duration={2.5} />
                                 {stat.suffix}

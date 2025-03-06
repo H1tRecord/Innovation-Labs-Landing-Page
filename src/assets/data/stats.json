@@ -1,0 +1,8 @@
+{
+    "stats": [
+        { "number": 6, "label": "Students Trained", "suffix": "+" },
+        { "number": 9, "label": "Active Projects", "suffix": "+" },
+        { "number": 4, "label": "Industry Partners", "suffix": "" },
+        { "number": 20, "label": "Success Stories", "suffix": "%" }
+    ]
+}

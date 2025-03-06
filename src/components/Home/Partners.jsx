@@ -7,11 +7,6 @@ const PartnerLogo = styled('img')(({ theme }) => ({
     objectFit: 'contain',
     filter: 'grayscale(100%)',
     opacity: 0.7,
-    transition: 'all 0.3s ease',
-    '&:hover': {
-        filter: 'grayscale(0%)',
-        opacity: 1,
-    },
 }));
 
 const Partners = () => {

@@ -13,7 +13,7 @@ const Introduction = () => {
                     <Grid item xs={12} md={6}>
                         <Box
                             component="img"
-                            src="https://placehold.co/800x600/252f3f/ffffff?text=Innovation+Community"
+                            src="https://placehold.co/800x600/252f3f/ffffff?text="
                             sx={{
                                 width: '100%',
                                 height: 'auto',

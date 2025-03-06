@@ -9,7 +9,7 @@ const FAQ = () => {
             <PageHero
                 title="Frequently Asked Questions"
                 subtitle="Find answers to commonly asked questions about our services and facilities"
-                image="https://placehold.co/1200x400/252f3f/ffffff?text="
+                image="https://placehold.co/400x200/252f3f/ffffff?text="
             />
             
             <Container maxWidth="lg" sx={{ py: 8 }}>
